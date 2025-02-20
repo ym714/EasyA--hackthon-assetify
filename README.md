@@ -1,4 +1,4 @@
-# AssetfyMarket
+# Assetfy
 
 ## What is Assetfy?
 Assetfy is a decentralized funding platform that bridges startups seeking capital with investors through secure, blockchain-based solutions. It enables startups to create funding projects with customizable goals and terms, while investors can participate using multi-chain assets like ETH, ERC20 tokens, and USDC. The platform ensures transparency through AI-driven risk assessments, automated tokenization (ARCS tokens), and flexible redemption mechanisms.
