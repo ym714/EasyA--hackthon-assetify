@@ -9,7 +9,17 @@ Assetfy is a decentralized funding platform that bridges startups seeking capita
 ## demo
 
 ## iamages
+![Image](https://github.com/user-attachments/assets/cc6b067d-9a46-43b5-8713-ac4709798df4)
 
+![Image](https://github.com/user-attachments/assets/83428964-010f-4407-b8eb-5ddb12d35985)
+
+![Image](https://github.com/user-attachments/assets/2f1bab60-89c9-4a06-9883-02dac2b03313)
+
+![Image](https://github.com/user-attachments/assets/6c408d3f-2cd5-4526-b314-a352322b30d2)
+
+![Image](https://github.com/user-attachments/assets/05010dbe-5f0e-45f6-bb60-04e897031c19)
+
+![Image](https://github.com/user-attachments/assets/31eb590f-adc6-4639-8cbd-7fcd2aaf41e1)
 
 ## Features
 1. **Project Management**:  
