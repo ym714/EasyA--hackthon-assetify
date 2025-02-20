@@ -9,10 +9,10 @@ https://www.canva.com/design/DAGfjlBYTHA/uH1p2QCTVRvu4nhw-CMN8Q/edit?utm_content
 
 ## demo
 
-<video width="600" controls autoplay muted loop>
-  <source src="https://github.com/ym714/EasyA--hackthon-assetify/releases/download/00/6ba2ff64-1462-4e8e-a215-4d4f532dbb45.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/5e197ecf-f112-490d-ab14-d16165ac1cba
+
+
 
 ## iamages
 ![Image](https://github.com/user-attachments/assets/cc6b067d-9a46-43b5-8713-ac4709798df4)
