@@ -5,16 +5,12 @@ Assetfy is a decentralized funding platform that bridges startups seeking capita
 
 ---
 ## slide(canva)
+https://www.canva.com/design/DAGfjlBYTHA/uH1p2QCTVRvu4nhw-CMN8Q/edit?utm_content=DAGfjlBYTHA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## demo
 
-<video width="600"
-       src="https://github.com/ym714/EasyA--hackthon-assetify/releases/download/00/6ba2ff64-1462-4e8e-a215-4d4f532dbb45.mp4"
-       controls
-       autoplay
-       muted
-       loop>
-  <!-- このメッセージはブラウザがvideoタグに対応していないときに表示されます -->
+<video width="600" controls autoplay muted loop>
+  <source src="https://github.com/ym714/EasyA--hackthon-assetify/releases/download/00/6ba2ff64-1462-4e8e-a215-4d4f532dbb45.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
